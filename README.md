@@ -1,6 +1,6 @@
 # Hi, I'm Onik! 👋
 
-Full-stack developer with over 4 years of experience in blockchain and backend development. I specialize in Rust, TypeScript, and blockchain technologies, with a passion for building complex systems from the ground up.
+Full-stack developer with over 5 years of experience in blockchain and backend development. I specialize in Rust, TypeScript, and blockchain technologies, with a passion for building complex systems from the ground up.
 
 🔧 Skills
 - Languages: TypeScript, Rust, Solidity, Python, JavaScript, SQL
